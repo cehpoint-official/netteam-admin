@@ -67,7 +67,7 @@ const Registration = (props) => {
                     draggable="false"
                   />
                 </div>
-                <h2 class="fw-bold mt-3">Register in to Flirtzy</h2>
+                <h2 class="fw-bold mt-3">Register in to NetTeam</h2>
                 {/* <h6 className="text-muted">
                   Enter your email and password to access admin panel.
                 </h6> */}
