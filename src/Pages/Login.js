@@ -48,7 +48,7 @@ const Login = (props) => {
                     draggable="false"
                   />
                 </div>
-                <h2 class="fw-bold mt-2">LogIn Flirtzy</h2>
+                <h2 class="fw-bold mt-2">LogIn NetTeam</h2>
                
 
                 <form class="text-left">
